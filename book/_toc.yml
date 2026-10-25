@@ -1,0 +1,12 @@
+format: jb-book
+root: intro
+chapters:
+  - file: cap01_knn_riesgo
+  - file: cap02_knn_desigualdad
+  - file: cap03_ridge_propiedades
+  - file: cap04_ridge_derivada
+  - file: cap05_ridge_estandarizacion
+  - file: cap06_lasso
+  - file: cap07_arbol_gini
+  - file: cap08_adaboost
+  - file: referencias
